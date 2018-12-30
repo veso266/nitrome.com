@@ -6,3 +6,5 @@ All the levels are unlocked and the game does reqeust levels from here: http://g
 the levels url is the same
 
 It does POST its score here: http://games.211games.com/o/flipside-super/
+
+this version aperently uses string encryption for its obfuscation
