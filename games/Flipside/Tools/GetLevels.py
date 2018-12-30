@@ -46,25 +46,14 @@ def Py2():
 	
 
 def Py3():
-	class Python3():
-		def __init__():
-			import urllib2
+	print("NotImplemented")
+	#class Python3():
+		#def __init__():
+		#	import urllib2
 		
-		print ("Python3")
-		urllib2.urlretrieve ("http://www.example.com/songs/mp3.mp3", "mp3.mp3")
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		#print ("Python3")
+		#urllib2.urlretrieve ("http://www.example.com/songs/mp3.mp3", "mp3.mp3")
+
 
 # RUNTIME VERSION CHECK #
 import sys
