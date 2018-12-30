@@ -11,4 +11,4 @@ All the games hosted here were unlocked to be able to be played on any domain (i
 Tools for theese games are written in what language comes to my mind when cracking them (but will usually be Python (2.7))
 
 
-## Miniclip, STOP STEALING GAMES FROM NITROME
+## MINICLIP, STOP STEALING GAMES FROM NITROME
