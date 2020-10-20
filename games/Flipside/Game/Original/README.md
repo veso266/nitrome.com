@@ -1,4 +1,4 @@
-Make DNS Record for cdn.nitrome.com/
+Make DNS A Record for cdn.nitrome.com to your ip address
 
 create folder games/flipside/levels and copy content of levels into that dir
 
