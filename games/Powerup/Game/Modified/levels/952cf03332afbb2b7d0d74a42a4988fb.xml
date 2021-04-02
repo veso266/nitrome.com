@@ -1,0 +1,115 @@
+<BalanceLevel>
+<NumStaticBlocks data="24"/>
+<BlockDef_1 water="0" nodrag="0" deadzone="0" data="-350,-110,-260,-110,-260,-10,-350,-10"/>
+<BlockDef_2 water="0" nodrag="0" deadzone="0" data="-350,-10,-260,-10,-260,80,-350,80"/>
+<BlockDef_3 water="0" nodrag="0" deadzone="0" data="-350,80,-260,80,-260,160,-350,160"/>
+<BlockDef_4 water="0" nodrag="0" deadzone="0" data="-260,-110,-190,-110,-260,-40"/>
+<BlockDef_5 water="0" nodrag="0" deadzone="0" data="-300,80,-260,80,-260,120,-300,120"/>
+<BlockDef_6 water="0" nodrag="0" deadzone="0" data="-300,120,-260,120,-260,160,-300,160"/>
+<BlockDef_7 water="0" nodrag="0" deadzone="0" data="-350,80,-300,80,-300,120,-350,120"/>
+<BlockDef_8 water="0" nodrag="0" deadzone="0" data="-350,120,-300,120,-300,160,-350,160"/>
+<BlockDef_9 water="0" nodrag="0" deadzone="0" data="-350,-270,-190,-270,-190,-110,-350,-110"/>
+<BlockDef_10 water="0" nodrag="0" deadzone="0" data="-350,-370,-190,-370,-190,-270,-350,-270"/>
+<BlockDef_11 water="0" nodrag="0" deadzone="0" data="-190,-370,-60,-370,-60,-260,-190,-260"/>
+<BlockDef_12 water="0" nodrag="0" deadzone="0" data="-60,-310,-10,-310,-10,-260,-60,-260"/>
+<BlockDef_13 water="0" nodrag="0" deadzone="0" data="-60,-370,-10,-370,-10,-310,-60,-310"/>
+<BlockDef_14 water="0" nodrag="0" deadzone="0" data="-10,-370,190,-370,190,-260,-10,-260"/>
+<BlockDef_15 water="0" nodrag="0" deadzone="0" data="190,-370,290,-370,290,-260,190,-260"/>
+<BlockDef_16 water="0" nodrag="0" deadzone="0" data="190,-260,290,-260,290,-110,190,-110"/>
+<BlockDef_17 water="0" nodrag="0" deadzone="0" data="-10,-110,110,-110,110,10,10,10,-10,-10"/>
+<BlockDef_18 water="0" nodrag="0" deadzone="0" data="110,-110,290,-110,290,160,110,160"/>
+<BlockDef_19 water="0" nodrag="0" deadzone="0" data="200,160,290,160,290,290,200,290"/>
+<BlockDef_20 water="0" nodrag="0" deadzone="0" data="20,160,200,160,200,290,20,290"/>
+<BlockDef_21 water="0" nodrag="0" deadzone="0" data="-350,160,-200,160,-200,290,-350,290"/>
+<BlockDef_22 water="0" nodrag="0" deadzone="0" data="-50,230,20,230,20,290,-50,290"/>
+<BlockDef_23 water="0" nodrag="0" deadzone="0" data="-50,160,20,160,20,230,-50,230"/>
+<BlockDef_24 water="0" nodrag="0" deadzone="0" data="-200,160,-50,160,-50,290,-200,290"/>
+<NumElementBlocks data="3"/>
+<ElementDef_1 data="1,-120,210,1"/>
+<ElementDef_2 data="2,80,-60,1"/>
+<ElementDef_3 data="4,-20,120,Your blocks come in a variety of| shapes and sizes. Why don't you| try and stack them to create a| circuit."/>
+<NumStamps data="75"/>
+<StampDef_1 data="2,-1.0500000000000114,-105"/>
+<StampDef_2 data="4,29.94999999999999,-105"/>
+<StampDef_3 data="15,12.949999999999989,-105"/>
+<StampDef_4 data="2,141,-106"/>
+<StampDef_5 data="14,160,-105"/>
+<StampDef_6 data="4,180,-107"/>
+<StampDef_7 data="3,-26,166"/>
+<StampDef_8 data="3,48,165"/>
+<StampDef_9 data="4,103,163"/>
+<StampDef_10 data="2,-255,165"/>
+<StampDef_11 data="3,-205,166"/>
+<StampDef_12 data="43,-210,154"/>
+<StampDef_13 data="41,-237,145"/>
+<StampDef_14 data="8,99,144"/>
+<StampDef_15 data="7,78,118"/>
+<StampDef_16 data="13,61,138"/>
+<StampDef_17 data="10,-51,147"/>
+<StampDef_18 data="11,-191,143"/>
+<StampDef_19 data="5,166,-129"/>
+<StampDef_20 data="10,137,-120"/>
+<StampDef_21 data="12,28,-124"/>
+<StampDef_22 data="42,11.949999999999989,-119"/>
+<StampDef_23 data="32,-116.5,263"/>
+<StampDef_24 data="33,-62.5,254"/>
+<StampDef_25 data="34,-222.5,206"/>
+<StampDef_26 data="32,-319,140"/>
+<StampDef_27 data="34,-281,6"/>
+<StampDef_28 data="32,80,195"/>
+<StampDef_29 data="33,147,232"/>
+<StampDef_30 data="36,181,182"/>
+<StampDef_31 data="32,-313,252"/>
+<StampDef_32 data="33,-148.5,259"/>
+<StampDef_33 data="35,-274,92"/>
+<StampDef_34 data="36,-249,190"/>
+<StampDef_35 data="36,-251,255"/>
+<StampDef_36 data="32,-214,-135"/>
+<StampDef_37 data="33,-229,-152"/>
+<StampDef_38 data="32,155,30"/>
+<StampDef_39 data="34,183,59"/>
+<StampDef_40 data="32,241,-47"/>
+<StampDef_41 data="32,50,272"/>
+<StampDef_42 data="32,266,236"/>
+<StampDef_43 data="35,265,178"/>
+<StampDef_44 data="35,-11,201"/>
+<StampDef_45 data="32,-332,-74"/>
+<StampDef_46 data="35,-313,-240"/>
+<StampDef_47 data="32,-92,-325"/>
+<StampDef_48 data="34,-113,-311"/>
+<StampDef_49 data="35,-256,-343"/>
+<StampDef_50 data="32,-282,-309"/>
+<StampDef_51 data="34,-312,-147"/>
+<StampDef_52 data="34,258,-237"/>
+<StampDef_53 data="32,222,-289"/>
+<StampDef_54 data="33,236,-308"/>
+<StampDef_55 data="32,91,-288"/>
+<StampDef_56 data="36,108,-304"/>
+<StampDef_57 data="36,23,-340"/>
+<StampDef_58 data="36,196,127"/>
+<StampDef_59 data="36,214,-163"/>
+<StampDef_60 data="34,168,-354"/>
+<StampDef_61 data="36,-27,-278"/>
+<StampDef_62 data="36,-326,183"/>
+<StampDef_63 data="36,-210,-247"/>
+<StampDef_64 data="36,268,79"/>
+<StampDef_65 data="32,51,-4"/>
+<StampDef_66 data="35,79.94999999999999,-16"/>
+<StampDef_67 data="35,10.949999999999989,-53"/>
+<StampDef_68 data="36,8,269"/>
+<StampDef_69 data="35,-264,-204"/>
+<StampDef_70 data="35,-210,-293"/>
+<StampDef_71 data="35,169,-30"/>
+<StampDef_72 data="35,256,-141"/>
+<StampDef_73 data="35,22,-289"/>
+<StampDef_74 data="35,-38,-340"/>
+<StampDef_75 data="35,-162,-338"/>
+<NumLevelBlocks data="0"/>
+<NumInitialBlocks data="6"/><InitialBlockDef_1 data="3.3202264292144776,-4.33034308398139,3.1405876097442262,1,0,1,0,true,3"/>
+<InitialBlockDef_2 data="-7.997412381090939,2.3402842624197078,1.571457691030105,1,0,1,2,true,7"/>
+<InitialBlockDef_3 data="2.335179607589451,4.3373063590248915,7.854638782949576,1,0,1,2,true,7"/>
+<InitialBlockDef_4 data="-7.669884541694079,4.669855502459052,-0.00040565245514818807,1,0,1,4,true,7"/>
+<InitialBlockDef_5 data="2.671671537273981,2.6754048065729474,12.566450672631852,1,0,1,4,true,7"/>
+<InitialBlockDef_6 data="-3.822190434278517,4.667649726938079,-0.0008190394677240921,1,0,1,2,true,7"/>
+<ScrollLimits data="-334,275,-355,275,-40,0"/>
+<Score data="2000" /></BalanceLevel>

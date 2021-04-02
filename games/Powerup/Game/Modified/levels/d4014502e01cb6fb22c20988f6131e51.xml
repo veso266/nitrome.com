@@ -1,0 +1,107 @@
+<BalanceLevel>
+<NumStaticBlocks data="17"/>
+<BlockDef_1 water="0" nodrag="0" deadzone="1" data="-40,-50,40,-50,40,220,40,290,-40,290,-40,220"/>
+<BlockDef_2 water="0" nodrag="0" deadzone="0" data="-90,-280,10,-280,10,-240,-90,-240"/>
+<BlockDef_3 water="0" nodrag="0" deadzone="0" data="-90,-240,90,-240,50,-200,-50,-200"/>
+<BlockDef_4 water="0" nodrag="0" deadzone="0" data="10,-280,50,-280,50,-240,10,-240"/>
+<BlockDef_5 water="0" nodrag="0" deadzone="0" data="50,-280,90,-280,90,-240,50,-240"/>
+<BlockDef_6 water="0" nodrag="0" deadzone="0" data="-300,-30,-180,90,-300,90"/>
+<BlockDef_7 water="0" nodrag="0" deadzone="0" data="-300,90,-230,90,-230,160,-300,160"/>
+<BlockDef_8 water="0" nodrag="0" deadzone="0" data="-230,90,-180,90,-110,160,-230,160"/>
+<BlockDef_9 water="0" nodrag="0" deadzone="0" data="-300,160,-100,160,-100,290,-300,290"/>
+<BlockDef_10 water="0" nodrag="0" deadzone="0" data="-100,160,-40,220,-100,220"/>
+<BlockDef_11 water="0" nodrag="0" deadzone="0" data="-100,220,-40,220,-40,290,-100,290"/>
+<BlockDef_12 water="0" nodrag="0" deadzone="0" data="40,220,100,220,100,290,40,290"/>
+<BlockDef_13 water="0" nodrag="0" deadzone="0" data="100,160,100,220,40,220"/>
+<BlockDef_14 water="0" nodrag="0" deadzone="0" data="100,160,300,160,300,290,100,290"/>
+<BlockDef_15 water="0" nodrag="0" deadzone="0" data="240,30,240,160,110,160"/>
+<BlockDef_16 water="0" nodrag="0" deadzone="0" data="240,30,300,30,300,160,240,160"/>
+<BlockDef_17 water="0" nodrag="0" deadzone="0" data="300,-30,300,30,240,30"/>
+<NumElementBlocks data="3"/>
+<ElementDef_1 data="1,-190,180,1"/>
+<ElementDef_2 data="2,180,180,1"/>
+<ElementDef_3 data="3,0,-300"/>
+<NumStamps data="71"/>
+<StampDef_1 data="3,-28,-275"/>
+<StampDef_2 data="2,-83,-276"/>
+<StampDef_3 data="14,34,-275"/>
+<StampDef_4 data="4,82,-276"/>
+<StampDef_5 data="14,61,-275"/>
+<StampDef_6 data="76,-27,-40"/>
+<StampDef_7 data="79,-2,-40"/>
+<StampDef_8 data="78,29,-40"/>
+<StampDef_9 data="80,5,-40"/>
+<StampDef_10 data="65,16,208"/>
+<StampDef_11 data="66,-8,70"/>
+<StampDef_12 data="69,-18,275"/>
+<StampDef_13 data="67,6,-7"/>
+<StampDef_14 data="73,21,128"/>
+<StampDef_15 data="75,-16,157"/>
+<StampDef_16 data="72,22,250"/>
+<StampDef_17 data="73,-23,8"/>
+<StampDef_18 data="72,24,22"/>
+<StampDef_19 data="63,-36,195"/>
+<StampDef_20 data="48,20,169"/>
+<StampDef_21 data="51,29,185"/>
+<StampDef_22 data="53,-24,233"/>
+<StampDef_23 data="51,-24,194"/>
+<StampDef_24 data="51,24,275"/>
+<StampDef_25 data="52,21,52"/>
+<StampDef_26 data="53,0,40"/>
+<StampDef_27 data="53,-25,104"/>
+<StampDef_28 data="51,24,88"/>
+<StampDef_29 data="48,-26,39"/>
+<StampDef_30 data="50,-29,227"/>
+<StampDef_31 data="64,-39,99"/>
+<StampDef_32 data="63,33,51"/>
+<StampDef_33 data="35,-13,-217"/>
+<StampDef_34 data="35,-50,-257"/>
+<StampDef_35 data="32,38,-214"/>
+<StampDef_36 data="35,23,-255"/>
+<StampDef_37 data="36,55,-230"/>
+<StampDef_38 data="36,-58,-224"/>
+<StampDef_39 data="33,-24,-225"/>
+<StampDef_40 data="35,85,262"/>
+<StampDef_41 data="32,184.95,235"/>
+<StampDef_42 data="35,225.95000000000005,242"/>
+<StampDef_43 data="35,146,238"/>
+<StampDef_44 data="32,279,185"/>
+<StampDef_45 data="35,278,257"/>
+<StampDef_46 data="36,256,218"/>
+<StampDef_47 data="36,110,186"/>
+<StampDef_48 data="36,114,261"/>
+<StampDef_49 data="36,84,201"/>
+<StampDef_50 data="36,274,105"/>
+<StampDef_51 data="34,263,127"/>
+<StampDef_52 data="33,252,43"/>
+<StampDef_53 data="34,284,58"/>
+<StampDef_54 data="33,49,240"/>
+<StampDef_55 data="33,201,96"/>
+<StampDef_56 data="33,286,3"/>
+<StampDef_57 data="33,-166,257"/>
+<StampDef_58 data="32,-249,254"/>
+<StampDef_59 data="33,-113.5,198"/>
+<StampDef_60 data="34,-117,257"/>
+<StampDef_61 data="34,-267,45"/>
+<StampDef_62 data="34,-216,71"/>
+<StampDef_63 data="34,-269.5,121"/>
+<StampDef_64 data="36,-268,75"/>
+<StampDef_65 data="36,-116.5,230"/>
+<StampDef_66 data="36,-272.5,210"/>
+<StampDef_67 data="36,-76,206"/>
+<StampDef_68 data="33,-57,245"/>
+<StampDef_69 data="36,-184,106"/>
+<StampDef_70 data="36,-188,229"/>
+<StampDef_71 data="36,65,-246"/>
+<NumLevelBlocks data="9"/>
+<LevelBlockDef_1 data="11,1,1,180,1,50"/>
+<LevelBlockDef_2 data="11,1,1,270,1,50"/>
+<LevelBlockDef_3 data="5,1,0,270,1,32"/>
+<LevelBlockDef_4 data="4,1,0,90,1,31"/>
+<LevelBlockDef_5 data="1,1,0,90,1,33"/>
+<LevelBlockDef_6 data="1,1,0,90,1,33"/>
+<LevelBlockDef_7 data="2,1,0,90,1,34"/>
+<LevelBlockDef_8 data="2,1,0,90,1,34"/>
+<LevelBlockDef_9 data="26,1,0,0,1,38"/>
+<NumInitialBlocks data="0"/><ScrollLimits data="-285,288,-513,275,0,-50"/>
+<Score data="7500" /></BalanceLevel>

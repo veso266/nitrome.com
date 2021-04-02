@@ -1,0 +1,150 @@
+<BalanceLevel>
+<NumStaticBlocks data="27"/>
+<BlockDef_1 water="1" nodrag="0" deadzone="0" data="-440,220,-60,220,-60,290,-440,290"/>
+<BlockDef_2 water="0" nodrag="0" deadzone="0" data="-440,-500,210,-500,210,-300,-440,-300"/>
+<BlockDef_3 water="0" nodrag="0" deadzone="0" data="-350,-90,-120,-90,-120,-50,-350,-50"/>
+<BlockDef_4 water="0" nodrag="0" deadzone="0" data="-450,-90,-350,-90,-350,20,-450,20"/>
+<BlockDef_5 water="0" nodrag="0" deadzone="0" data="-350,-50,-270,-50,-270,20,-350,20"/>
+<BlockDef_6 water="0" nodrag="0" deadzone="0" data="-190,-50,-120,-50,-190,20"/>
+<BlockDef_7 water="0" nodrag="0" deadzone="0" data="-270,-50,-190,-50,-190,20,-270,20"/>
+<BlockDef_8 water="0" nodrag="0" deadzone="0" data="-450,20,-410,20,-410,140,-450,140"/>
+<BlockDef_9 water="0" nodrag="0" deadzone="0" data="-450,140,-340,140,-340,190,-380,230,-380,290,-450,290"/>
+<BlockDef_10 water="0" nodrag="0" deadzone="0" data="-410,20,-340,20,-410,90"/>
+<BlockDef_11 water="0" nodrag="0" deadzone="0" data="-450,-220,-410,-220,-410,-90,-450,-90"/>
+<BlockDef_12 water="0" nodrag="0" deadzone="0" data="-450,-300,-410,-300,-410,-220,-450,-220"/>
+<BlockDef_13 water="0" nodrag="0" deadzone="0" data="-450,-500,-240,-500,-240,-300,-450,-300"/>
+<BlockDef_14 water="0" nodrag="0" deadzone="0" data="-240,-340,-200,-340,-200,-300,-240,-300"/>
+<BlockDef_15 water="0" nodrag="0" deadzone="0" data="-240,-380,-200,-380,-200,-340,-240,-340"/>
+<BlockDef_16 water="0" nodrag="0" deadzone="0" data="-200,-340,-160,-340,-160,-300,-200,-300"/>
+<BlockDef_17 water="0" nodrag="0" deadzone="0" data="-200,-380,-160,-380,-160,-340,-200,-340"/>
+<BlockDef_18 water="0" nodrag="0" deadzone="0" data="-240,-500,-160,-500,-160,-380,-240,-380"/>
+<BlockDef_19 water="0" nodrag="0" deadzone="0" data="-160,-420,-30,-420,-30,-300,-160,-300"/>
+<BlockDef_20 water="0" nodrag="0" deadzone="0" data="200,-30,200,100,70,100"/>
+<BlockDef_21 water="0" nodrag="0" deadzone="0" data="120,100,200,100,200,180,120,180"/>
+<BlockDef_22 water="0" nodrag="0" deadzone="0" data="70,100,120,100,120,180,-10,180"/>
+<BlockDef_23 water="0" nodrag="0" deadzone="0" data="160,180,200,180,200,220,160,220"/>
+<BlockDef_24 water="0" nodrag="0" deadzone="0" data="120,180,160,180,160,220,120,220"/>
+<BlockDef_25 water="0" nodrag="0" deadzone="0" data="120,220,200,220,200,290,120,290"/>
+<BlockDef_26 water="0" nodrag="0" deadzone="0" data="-60,220,120,220,120,290,-60,290"/>
+<BlockDef_27 water="0" nodrag="0" deadzone="0" data="-10,180,120,180,120,220,-50,220"/>
+<NumElementBlocks data="4"/>
+<ElementDef_1 data="1,40,210,1"/>
+<ElementDef_2 data="2,100,-340,3"/>
+<ElementDef_3 data="3,-190,-110"/>
+<ElementDef_4 data="4,-380,100,we love triangles! do you?"/>
+<NumStamps data="99"/>
+<StampDef_1 data="38,-420,230"/>
+<StampDef_2 data="38,-380,230"/>
+<StampDef_3 data="38,-340,230"/>
+<StampDef_4 data="38,-300,230"/>
+<StampDef_5 data="38,-260,230"/>
+<StampDef_6 data="38,-220,230"/>
+<StampDef_7 data="38,-180,230"/>
+<StampDef_8 data="38,-140,230"/>
+<StampDef_9 data="38,-100,230"/>
+<StampDef_10 data="38,-60,230"/>
+<StampDef_11 data="93,-90,260"/>
+<StampDef_12 data="93,-150,260"/>
+<StampDef_13 data="93,-210,260"/>
+<StampDef_14 data="93,-270,260"/>
+<StampDef_15 data="93,-330,260"/>
+<StampDef_16 data="93,-390,260"/>
+<StampDef_17 data="93,-450,260"/>
+<StampDef_18 data="3,-348,-85"/>
+<StampDef_19 data="3,-260,-86"/>
+<StampDef_20 data="4,-124,-88"/>
+<StampDef_21 data="14,-145,-86"/>
+<StampDef_22 data="15,-211,-86"/>
+<StampDef_23 data="14,-184,-85"/>
+<StampDef_24 data="2,-404,-85"/>
+<StampDef_25 data="30,106.5,67"/>
+<StampDef_26 data="30,44.5,129"/>
+<StampDef_27 data="30,-26,203"/>
+<StampDef_28 data="33,-333,1"/>
+<StampDef_29 data="32,-295,-34"/>
+<StampDef_30 data="34,-288,2"/>
+<StampDef_31 data="36,-425,-8"/>
+<StampDef_32 data="33,-393,-33"/>
+<StampDef_33 data="32,-163,-32"/>
+<StampDef_34 data="34,-133,-63"/>
+<StampDef_35 data="35,-215,-68"/>
+<StampDef_36 data="34,-217,0"/>
+<StampDef_37 data="37,-390,46"/>
+<StampDef_38 data="33,-427,123"/>
+<StampDef_39 data="34,-431,-171"/>
+<StampDef_40 data="36,-430,-121"/>
+<StampDef_41 data="36,-421,-55"/>
+<StampDef_42 data="36,-302,-67"/>
+<StampDef_43 data="36,-426,186"/>
+<StampDef_44 data="32,-429,255"/>
+<StampDef_45 data="32,-315,-321"/>
+<StampDef_46 data="34,-361,-391"/>
+<StampDef_47 data="34,-278,-382"/>
+<StampDef_48 data="36,-258,-400"/>
+<StampDef_49 data="36,-409,-335"/>
+<StampDef_50 data="32,-435,-386"/>
+<StampDef_51 data="33,-252,-316"/>
+<StampDef_52 data="33,-431,-263"/>
+<StampDef_53 data="33,-74,-378"/>
+<StampDef_54 data="32,-54,-360"/>
+<StampDef_55 data="34,-116,-327"/>
+<StampDef_56 data="36,-142,-377"/>
+<StampDef_57 data="36,-41,-404"/>
+<StampDef_58 data="36,-46,-317"/>
+<StampDef_59 data="36,-211,-405"/>
+<StampDef_60 data="36,-317,-409"/>
+<StampDef_61 data="32,-184,-361"/>
+<StampDef_62 data="33,-126.94999999999999,-415"/>
+<StampDef_63 data="33,103.55000000000001,-410"/>
+<StampDef_64 data="34,137.55,-413"/>
+<StampDef_65 data="32,37.55000000000001,-372"/>
+<StampDef_66 data="33,15,-422"/>
+<StampDef_67 data="33,2,-319"/>
+<StampDef_68 data="36,-8,-362"/>
+<StampDef_69 data="36,52.05000000000001,-413"/>
+<StampDef_70 data="36,180,-312"/>
+<StampDef_71 data="36,165,-411"/>
+<StampDef_72 data="36,151,137"/>
+<StampDef_73 data="32,172,159"/>
+<StampDef_74 data="35,178,116"/>
+<StampDef_75 data="35,136,80"/>
+<StampDef_76 data="35,179,52"/>
+<StampDef_77 data="37,136,243"/>
+<StampDef_78 data="32,39,266"/>
+<StampDef_79 data="33,-35,264"/>
+<StampDef_80 data="36,176,266"/>
+<StampDef_81 data="36,97,123"/>
+<StampDef_82 data="32,79.5,139"/>
+<StampDef_83 data="34,141,196"/>
+<StampDef_84 data="34,192,207"/>
+<StampDef_85 data="9,-251,-109"/>
+<StampDef_86 data="91,-293,-149"/>
+<StampDef_87 data="92,-357,-126"/>
+<StampDef_88 data="5,-385,-106"/>
+<StampDef_89 data="8,-270,-99"/>
+<StampDef_90 data="11,-335,-101"/>
+<StampDef_91 data="10,-317,-96"/>
+<StampDef_92 data="30,168.5,5"/>
+<StampDef_93 data="7,155,-3"/>
+<StampDef_94 data="10,137,18"/>
+<StampDef_95 data="12,-34,194"/>
+<StampDef_96 data="34,-359,154"/>
+<StampDef_97 data="36,-402,169"/>
+<StampDef_98 data="36,-359,193"/>
+<StampDef_99 data="35,-389,204"/>
+<NumLevelBlocks data="13"/>
+<LevelBlockDef_1 data="9,1,0,180,1,29"/>
+<LevelBlockDef_2 data="9,1,0,0,1,29"/>
+<LevelBlockDef_3 data="9,1,0,180,1,29"/>
+<LevelBlockDef_4 data="11,1,0,90,1,30"/>
+<LevelBlockDef_5 data="11,1,0,270,1,30"/>
+<LevelBlockDef_6 data="11,1,0,0,1,30"/>
+<LevelBlockDef_7 data="11,1,0,180,1,30"/>
+<LevelBlockDef_8 data="11,1,0,90,1,30"/>
+<LevelBlockDef_9 data="11,1,0,270,1,30"/>
+<LevelBlockDef_10 data="11,1,0,0,1,30"/>
+<LevelBlockDef_11 data="11,1,0,180,1,30"/>
+<LevelBlockDef_12 data="11,1,0,90,1,30"/>
+<LevelBlockDef_13 data="11,1,0,270,1,30"/>
+<NumInitialBlocks data="0"/><ScrollLimits data="-438,189,-419,275,-110,-20"/>
+<Score data="5000" /></BalanceLevel>
